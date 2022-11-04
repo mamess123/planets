@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 It is not a planet
 =======
 It is so a planet!
->>>>>>> ede658261af549258b1d7130bdfb399770b33ec0
